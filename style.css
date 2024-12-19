@@ -36,7 +36,7 @@
     display: flex;
 }
 .lists {
-    margin:0;
+    margin: 0;
     padding: 0px;
 }
 .list,
@@ -120,7 +120,7 @@ li > label {
     font-size: 18px;
     width: 226px;
 }
-li >    input[type="text"] {
+li > input[type="text"] {
     width: 226px;
 }
 button.delete img {
